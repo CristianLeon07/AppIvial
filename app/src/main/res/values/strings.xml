@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Ivial</string>
+    <string name="titulo_app">Ivial</string>
+    <string name="slogan">Aprende Respeta, Valora</string>
+    <string name="inicio_sesion">Inicia Sesión</string>
+    <string name="correo">Ingrese su usuario</string>
+    <string name="contraseña">Ingrese su contraseña</string>
+    <string name="olvido_contraseña">Olvido su contraseña?</string>
+    <string name="registrate">Registrate</string>
+    <string name="tv_correo">Usuario</string>
+    <string name="tv_contraseña">Contraseña</string>
+
+    <string name="login">Ingresa</string>
+    <string name="sloganLogin">Inicia sesión para continuar.</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvUsuario">Usuario</string>
+    <string name="hintEmail">Rafa123</string>
+    <string name="tvPass">Contraseña</string>
+    <string name="tvConfPass">Confirmar contraseña</string>
+    <string name="hintPass">******</string>
+    <string name="btnLogin">Acceso</string>
+    <string name="btnForgotPass">Has olvidado tu contraseña?</string>
+    <string name="btnRegister">Registrate</string>
+    <string name="sloganRegister">Registrate para Acceder al sistema.</string>
+    <string name="tvName">Nombre</string>
+    <string name="hintCorreo">Ingresa tu correo electrónico</string>
+    <string name="etName">Ingresa tu nombre.</string>
+    <string name="etFirstName">Ingresa tu apellido.</string>
+    <string name="etEmail">Ingresa tu correo</string>
+    <string name="tvIdentification">Documento de identidad</string>
+    <string name="etIdentification">Ingresa tu numero de documento</string>
+    <string name="tvWelcome">¡Bienvenido</string>
+    <string name="tvfechaInit">FECHA INICIAL</string>
+    <string name="tvfechaFin">FECHA FINAL</string>
+    <string name="btnFechaFin">Fecha final</string>
+    <string name="tvDatefechaInit">2023-4-25</string>
+    <string name="tvDatefechaFin">---------</string>
+    <string name="btnCerrarSesion">Cerrar Sesión</string>
+    <string name="btnConsulta">Consultar Asteroides Guardados</string>
+    <string name="tvMagnitud">Magnitud Absoluta:</string>
+    <string name="tvDiametro">Diametro Estimado:</string>
+    <string name="tvVelocidad">Velocidad Aproximada:</string>
+    <string name="tvDistancia">Distancia Aproximada:</string>
+    <string name="tvFecha">Fecha Aproximada:</string>
+    <string name="Tag">Prueba</string>
+
+</resources>

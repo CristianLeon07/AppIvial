@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colo_titulo">#03DF9B</color>
+    <color name="colo_fondo">#FFFFFF</color>
+    <color name="colo_texto">#068FA2</color>
+    <color name="orange_200">#CE860D</color>
+    <color name="orange_300">#F98B01</color>
+    <color name="orange_600">#A36105</color>
+    <color name="gray_700">#707070</color>
+    <color name="gray_300">#D4D4D4</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_hint">#C4C4C4</color>
+    <color name="gray_caja_texto">#E5E5E5</color>
+    <color name="Transparent">#00FFFFFF</color>
+    <color name="azul_degra1">#036CE7</color>
+    <color name="azul_degra2">#023674</color>
+    <color name="azul_degra3">#0258BE</color>
+    <color name="blue_3">#006BE7</color>
+    <color name="blue_100">#0258BE</color>
+    <color name="red">#E5023F</color>
+    <color name="red_cerrado"> #E4023F</color>
+    <color name="naranja_demorado"> #EA9035</color>
+    <color name="red_100">#E00000</color>
+    <color name="red_200">#D95656</color>
+    <color name="verde">#2AA007</color>
+    <color name="verde_abierto">#4D962B</color>
+    <color name="verde_100">#12BA39</color>
+    <color name="color_inicial_icono">#8a8d9f</color>
+
+
+
+
+</resources>

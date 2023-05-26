@@ -1,0 +1,12 @@
+
+E
+java:S1604c"(Make this anonymous inner class a lambda(†£°î8¬ÅĞáÿ0
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹¶âb
+F
+java:S1659'")Declare "lottieError" on a separate line.(Ö’ÜÕ8áÅĞáÿ0
+|
+java:S1450""ZRemove the "btnCancelar" field and declare it as a local variable in the relevant methods.(×¯úÿÿÿÿ8áÅĞáÿ0
+s
+java:S1450"VRemove the "tvTitle" field and declare it as a local variable in the relevant methods.(ŸçÀ8áÅĞáÿ0
+L
+java:S1874b"/Remove this use of "Handler"; it is deprecated.(’Ú©Š8íÅĞáÿ0

@@ -1,0 +1,8 @@
+
+—
+java:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ýØ‹È
+6	java:S131D""Add a default case to this switch.(ìúÇV
+V	java:S125C"<This block of commented-out lines of code should be removed.(ãØŸ–üÿÿÿÿ
+V	java:S125W"<This block of commented-out lines of code should be removed.(Úö”èüÿÿÿÿ
+P
+java:S1068!"5Remove this unused "principalFragment" private field.(šìÉ¨úÿÿÿÿ

@@ -1,0 +1,15 @@
+
+>
+java:S16043"(Make this anonymous inner class a lambda(¡¦€ò
+C
+java:S1604="(Make this anonymous inner class a lambda(ó¹Şïúÿÿÿÿ
+C
+java:S1604H"(Make this anonymous inner class a lambda(¸Ç—ùÿÿÿÿ
+ˆ	java:S116"nRename this field "btn_contenedor_seÃ±ales_preventivas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è§Äûÿÿÿÿ
+t	java:S116"_Rename this field "contenedor_de_curvas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äı§
+x	java:S116"^Rename this field "contenedor_de_altos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡…íµøÿÿÿÿ
+…	java:S116"pRename this field "btn_contenedor_seÃ±ales_resctrictivas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íø‚ª
+w	java:S116"bRename this field "contenedor_de_servicios" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ù¼
+†	java:S116"lRename this field "btn_contenedor_seÃ±ales_servicios" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÔ–¦ÿÿÿÿÿ
+W
+java:S1068"5Remove this unused "principalFragment" private field.(šìÉ¨úÿÿÿÿ8Ğ­ÿãÿ0

@@ -1,0 +1,25 @@
+
+`	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(õÑ¡…ÿÿÿÿÿ
+?
+java:S1604–"(Make this anonymous inner class a lambda(†£°î
+r	java:S116,"XRename this field "etContraseÃ±a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö†¶¨ÿÿÿÿÿ
+{	java:S116,"aRename this field "etConfirmarContraseÃ±a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö†¶¨ÿÿÿÿÿ
+`
+java:S1659,"EDeclare "etNombre" and all following declarations on a separate line.(Ö†¶¨ÿÿÿÿÿ
+?
+java:S16591")Declare "btnCancelar" on a separate line.(Õ¤¥–
+l
+java:S14509"QRemove the "db" field and declare it as a local variable in the relevant methods.(×™îÏþÿÿÿÿ
+m
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÿÄèòÿÿÿÿÿ
+T
+java:S1854u"?Remove this useless assignment to local variable "regCreateAd".(Úç‚
+2
+java:S3626‚"Remove this redundant jump.(ûÁÝ…
+E
+java:S1481u"0Remove this unused "regCreateAd" local variable.(Úç‚
+F
+java:S1874•"/Remove this use of "Handler"; it is deprecated.(’Ú©Š
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+H
+java:S1068*"2Remove this unused "accesoFragment" private field.(íäÊâ

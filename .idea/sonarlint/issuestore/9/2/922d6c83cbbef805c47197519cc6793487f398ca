@@ -1,0 +1,33 @@
+
+E
+java:S1604_"(Make this anonymous inner class a lambda(†£°î8Ê¢¾âÿ0
+o
+java:S1104""YMake nombreusuario a static final constant or non-public and provide accessors if needed.(ƒ¥«
+r
+java:S1104%"UMake emailUser a static final constant or non-public and provide accessors if needed.(ãİğÎ8Ÿ¾âÿ0
+I
+java:S1444""3Make this "public static nombreusuario" field final(ƒ¥«
+L
+java:S1444%"/Make this "public static emailUser" field final(ãİğÎ8Ÿ¾âÿ0
+Y
+java:S4973h"<Strings and Boxed types should be compared using "equals()".(ªÜŒ8Î¢¾âÿ0
+m	java:S116"XRename this field "etContraseÃ±a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãäœ¤
+x	java:S116!"^Rename this field "tvOlvidoContraseÃ±a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‹¨Ïşÿÿÿÿ
+u
+java:S1450 "XRemove the "baseDatos" field and declare it as a local variable in the relevant methods.(à—™Ó8¨ıšâÿ0
+{
+java:S1450("YRemove the "verifyData" field and declare it as a local variable in the relevant methods.(Ú”³–úÿÿÿÿ8û¢¾âÿ0
+X
+java:S2696["6Make the enclosing method "static" or remove this set.(Àş†»üÿÿÿÿ8£¾âÿ0
+L
+java:S1874^"/Remove this use of "Handler"; it is deprecated.(’Ú©Š8£¾âÿ0
+I
+java:S1602t",Remove useless curly braces around statement(ä 8£¾âÿ0
+I
+java:S1602x",Remove useless curly braces around statement(ú•û·8“£¾âÿ0
+J
+java:S1068 "-Remove this unused "baseDatos" private field.(à—™Ó8Üú£âÿ0
+Y
+java:S1068!"7Remove this unused "tvOlvidoContraseÃ±a" private field.(«‹¨Ïşÿÿÿÿ8Úƒø‹‚1
+P
+java:S1068#".Remove this unused "contrasena" private field.(Ì¦ÛÅúÿÿÿÿ8§µÎâÿ0

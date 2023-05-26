@@ -1,0 +1,28 @@
+
+k
+java:S1192®"ODefine a constant instead of duplicating this literal "opcion dialogo" 3 times.(±Ì·ùÿÿÿÿ
+f
+java:S1301y"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+h	java:S116;"SRename this field "tv_salir" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¤ù³
+c
+java:S1659B"MDeclare "tvNumeroBomberos" and all following declarations on a separate line.(ß“–ğ
+9
+java:S1659D"#Declare "email" on a separate line.(ß¬¾ˆ
+l
+java:S1450@"QRemove the "db" field and declare it as a local variable in the relevant methods.(×™îÏşÿÿÿÿ
+M
+java:S1874="7Remove this use of "GoogleApiClient"; it is deprecated.(©üß¦
+M
+java:S1874q"7Remove this use of "GoogleApiClient"; it is deprecated.(Ñ°İà
+E
+java:S1874q"/Remove this use of "Builder"; it is deprecated.(Ñ°İà
+2
+java:S3626†"Remove this redundant jump.(ûÁİ…
+<	java:S131y""Add a default case to this switch.(×ö³–úÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(§Üİ¸ÿÿÿÿÿ
+H
+java:S1068>"2Remove this unused "accesoFragment" private field.(íäÊâ
+K
+java:S1068A"0Remove this unused "mapsFragment" private field.(ÒÑ¹üüÿÿÿÿ
+D
+java:S1068D".Remove this unused "dateFinish" private field.(ß¬¾ˆ

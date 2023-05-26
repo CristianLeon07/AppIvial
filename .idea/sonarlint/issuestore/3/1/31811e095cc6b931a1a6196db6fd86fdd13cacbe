@@ -1,0 +1,29 @@
+
+f	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œˆñé
+>
+java:S1604I"(Make this anonymous inner class a lambda(äƒÅä
+F
+java:S1604™"(Make this anonymous inner class a lambda(•Ëìı8ù¹ìÿ0
+k	java:S116'"VRename this field "gps_LATITUD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä†Éç
+l	java:S116("WRename this field "gps_LONGITUD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŸ†Œ
+s	java:S116)"^Rename this field "tv_ubicacion_actual" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹§œÚ
+q	java:S116*"\Rename this field "btn_regresar_mapa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Šˆ»
+r	java:S116+"XRename this field "btn_continuar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¬…òşÿÿÿÿ
+r
+java:S3252X"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¬µŸÿÿÿÿÿ
+r
+java:S3252X"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¬µŸÿÿÿÿÿ
+M
+java:S1135Y"2Complete the task associated to this TODO comment.(áÃæùÿÿÿÿ
+T
+java:S1155g">Use isEmpty() to check whether the collection is empty or not.(ß »§
+p	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿİşøüÿÿÿÿ8Àºìÿ0
+p	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ë®õûÿÿÿÿ8Áºìÿ0
+M
+java:S1068)"7Remove this unused "tv_ubicacion_actual" private field.(¹§œÚ
+L
+java:S1068+"1Remove this unused "btn_continuar" private field.(€¬…òşÿÿÿÿ
+H
+java:S1068,"2Remove this unused "accesoFragment" private field.(íäÊâ
+=
+java:S1068."(Remove this unused "tipo" private field.(¿„­\

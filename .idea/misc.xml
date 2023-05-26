@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/borders_dialogo_trasparente.xml" value="0.137" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/borders_edittext.xml" value="0.1575" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/borders_tarjetas_tienda.xml" value="0.2355" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/borders_trasnparente.xml" value="0.14" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/bordes.xml" value="0.165" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/bordes_dialogos.xml" value="0.137" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/bordes_editex.xml" value="0.137" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/btn_cancel.xml" value="0.137" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/diseno_dialogo.xml" value="0.137" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/fondo_degradado.xml" value="0.137" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/ic_assteroides_background.xml" value="0.137" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/ic_cards_background.xml" value="0.137" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/ic_fondo_background.xml" value="0.137" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/ic_icono_background.xml" value="0.137" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/splash_screen.xml" value="0.1245" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/splash_screnn.xml" value="0.148" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/drawable/temporal.xml" value="0.126" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/acceso_main.xml" value="0.25" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/activity_accidente3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/activity_modulo_acceso.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/activity_noticia.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/activity_noticia1.xml" value="0.22" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/activity_noticia2.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/activity_noticia3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/activity_noticia4.xml" value="0.33" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/activity_principal.xml" value="0.33" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/activity_registro.xml" value="0.25" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/alert_dialogo.xml" value="0.15234375" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/alert_dialogo_educacion.xml" value="0.25" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/alert_dialogo_informacion.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/alert_dialogo_prevencion.xml" value="0.22" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/fragment_acceso.xml" value="0.18" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/fragment_maps.xml" value="0.203125" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/fragment_noticia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/fragment_noticia1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/fragment_noticia2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/fragment_noticia3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/fragment_noticia4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/fragment_principal.xml" value="0.23789764868603042" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/fragment_registro.xml" value="0.43897996357012753" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/layout/temporal.xml" value="0.33" />
+        <entry key="..\:/Users/cristian.leon/AndroidStudioProjects/Ivial/app/src/main/res/mipmap-anydpi-v26/splash_ivial.xml" value="0.1435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–êÿ¤
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–êÿ¤
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ¨é¯üÿÿÿÿ
+V
+java:S1126*"AReplace this if-then-else statement by a single return statement.(þ´¸1
+W
+java:S11267"AReplace this if-then-else statement by a single return statement.(äºÖ´
+W
+java:S1126A"AReplace this if-then-else statement by a single return statement.(äºÖ´
+Q	java:S125G"<This block of commented-out lines of code should be removed.(ºµ‘Å
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8ºÞ³æÿ0

@@ -1,0 +1,35 @@
+
+}
+java:S1192/"gDefine a constant instead of duplicating this literal "GPS estÃ¡ habilitado en su dispositivo" 4 times.(‡ÿ®·
+E
+java:S10663"/Merge this if statement with the enclosing one.(ŞÓ—’
+>
+java:S1604X"(Make this anonymous inner class a lambda(³ÊëÜ
+?
+java:S1604"(Make this anonymous inner class a lambda(ŞĞİÏ
+`
+java:S1301`"KReplace this "switch" statement by "if" statements to increase readability.(É¶Ü=
+g
+java:S1301—"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+z
+java:S1104}"_Make gpsLocationReceiver a static final constant or non-public and provide accessors if needed.(ĞÚ€òúÿÿÿÿ
+a
+java:S2184P"FCast one of the operands of this multiplication operation to a "long".(á¨ì´ùÿÿÿÿ
+a
+java:S2184Q"FCast one of the operands of this multiplication operation to a "long".( ÂÂœşÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹¶âb
+R
+java:S1854\"<Remove this useless assignment to local variable "response".(­¯İØ
+C
+java:S1481\"-Remove this unused "response" local variable.(­¯İØ
+6	java:S131`""Add a default case to this switch.(É¶Ü=
+‚
+java:S3252a"gUse static access with "com.google.android.gms.common.api.CommonStatusCodes" for "RESOLUTION_REQUIRED".(Âş†²ûÿÿÿÿ
+[
+java:S2147l"ECombine this catch with the one at line 106, which has the same body.(ğıˆÒ
+K
+java:S1874‰"/Remove this use of "Handler"; it is deprecated.(çÊõµøÿÿÿÿ
+f
+java:S1874–"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÉÎÍïıÿÿÿÿ
+=	java:S131—""Add a default case to this switch.(×ö³–úÿÿÿÿ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(…¯Ëº
